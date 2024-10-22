@@ -6,9 +6,9 @@ import MyTitle from "./components/MyTitle";
 function App() {
   return (
     <section>
-      <MyTitle/>
+      <MyTitle />
     </section>
   );
 }
 
-export default App;
+export default App
